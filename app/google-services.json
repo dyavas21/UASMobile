@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "829912664620",
+    "firebase_url": "https://uasmobile-3deb1-default-rtdb.firebaseio.com",
+    "project_id": "uasmobile-3deb1",
+    "storage_bucket": "uasmobile-3deb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829912664620:android:142ff1450498a5b7dfdf89",
+        "android_client_info": {
+          "package_name": "build.gradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLoBaZJbpEv3bLyHQf_pY9u3HIJtxGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829912664620:android:ff49c5abf63b7a71dfdf89",
+        "android_client_info": {
+          "package_name": "com.example.quizzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829912664620-i8t0uamedm0i4qio2nrcebctm4g87s3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzz",
+            "certificate_hash": "037cf47c72db91e178997ef3f8605a5c3eb18534"
+          }
+        },
+        {
+          "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLoBaZJbpEv3bLyHQf_pY9u3HIJtxGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829912664620:android:35150e5cdc10b091dfdf89",
+        "android_client_info": {
+          "package_name": "com.example.uasmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLoBaZJbpEv3bLyHQf_pY9u3HIJtxGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829912664620-a4u3hluc53r65gmanjqmad5qtnt6g1p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
